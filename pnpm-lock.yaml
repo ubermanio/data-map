@@ -5,7 +5,6 @@ specifiers:
   '@types/jsonpath': ^0.2.0
   husky: ^8.0.1
   jsonpath: ^1.1.1
-  mingo: ^6.1.2
   size-limit: ^8.1.0
   tsdx: ^0.14.1
   tslib: ^2.4.0
@@ -14,7 +13,6 @@ specifiers:
 
 dependencies:
   jsonpath: 1.1.1
-  mingo: 6.1.2
 
 devDependencies:
   '@size-limit/preset-small-lib': 8.1.0_size-limit@8.1.0
@@ -5215,10 +5213,6 @@ packages:
     resolution: {integrity: sha512-OqbOk5oEQeAZ8WXWydlu9HJjz9WVdEIvamMCcXmuqUYjTknH/sqsWvhQ3vgwKFRR1HpjvNBKQ37nbJgYzGqGcg==}
     engines: {node: '>=6'}
     dev: true
-
-  /mingo/6.1.2:
-    resolution: {integrity: sha512-Ag9Cq+Mz2VOuNQDry36LEHqTJ9A8ePts78a4lDOt+TdiBXkOgihY06TwzIgpkMN58CWPPpOcSfE6vixroTwjDA==}
-    dev: false
 
   /minimatch/3.1.2:
     resolution: {integrity: sha512-J7p63hRiAjw1NDEww1W7i37+ByIrOWO5XQQAzZ3VOcL0PNybwpfmV/N05zFAzwQ9USyEcX6t3UO+K5aqBQOIHw==}
